@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 I am a QA Engineer.
 
+Self Development Plan : https://trello.com/b/69o59Vmd/bassams-self-development
+
 ---
 ### :fire: My Stats :
 
