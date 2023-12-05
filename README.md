@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### :man_technologist: About Me :
+###  About Me :
 I am a QA Engineer.
 
 Self Development Plan : https://trello.com/b/69o59Vmd/bassams-self-development
 
 ---
-### :fire: My Stats :
+###  My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashangbasir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
