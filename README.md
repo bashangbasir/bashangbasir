@@ -6,9 +6,13 @@ Self Development Plan: https://trello.com/b/69o59Vmd/bassams-self-development
 
 My learning notes: https://bashangbasir.notion.site/bashangbasir/Software-Testing-and-Development-04b3c730235b4531b0dccdba9cdaaf81
 
-Tools I used : 
+Languages : 
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,selenium,vscode,idea,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css)](https://skillicons.dev)
+
+Tools: 
+
+[![My Skills](https://skillicons.dev/icons?i=selenium,postman,vscode,idea,github,gitlab)](https://skillicons.dev)
 
 ---
 ###  My Stats :
