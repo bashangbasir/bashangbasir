@@ -8,7 +8,7 @@ My learning notes: https://bashangbasir.notion.site/bashangbasir/Software-Testin
 
 Tools I used : 
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,HTML,css,selenium,vscode,idea.github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,selenium,vscode,idea,github,gitlab)](https://skillicons.dev)
 
 ---
 ###  My Stats :
