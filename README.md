@@ -1,8 +1,5 @@
+<h1 align="center"><b>Hi, I'm Bassam Abdul Basir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-###  About Me:
-I am a QA Engineer.
-
----
 
 Self Development Plan: [board](https://trello.com/b/69o59Vmd/bassams-self-development)
 
