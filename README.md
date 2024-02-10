@@ -4,9 +4,9 @@ I am a QA Engineer.
 
 ---
 
-Self Development Plan: https://trello.com/b/69o59Vmd/bassams-self-development
+Self Development Plan: [board](https://trello.com/b/69o59Vmd/bassams-self-development)
 
-My learning notes: https://bashangbasir.notion.site/bashangbasir/Software-Testing-and-Development-04b3c730235b4531b0dccdba9cdaaf81
+My learning notes: [notes](https://bashangbasir.notion.site/bashangbasir/Software-Testing-and-Development-04b3c730235b4531b0dccdba9cdaaf81)
 
 ---
 
