@@ -6,7 +6,7 @@ My learning notes: [notes](https://bashangbasir.notion.site/bashangbasir/Softwar
 
 ---
 
-Languages : 
+Programming Languages : 
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css)](https://skillicons.dev)
 
